@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: hotel.png
+image: hotel.PNG
 title: "Hotel Management System"
 date: 2023-12-06
 published: true
@@ -12,5 +12,5 @@ summary: "My groups created a basic hotel management system where people can per
 generate guest summary reports."
 ---
 
-<img src="hotel.png">
+<img src="hotel.PNG">
 
