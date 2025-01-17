@@ -7,6 +7,7 @@ date: 2025-01-017
 published: true
 labels:
   - typescript
+  - coding
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
