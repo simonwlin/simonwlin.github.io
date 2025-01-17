@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: ![hotel](https://github.com/user-attachments/assets/ad557d8b-28a4-474c-b694-9a182c20e7d5)
-
+image: hms.png
 title: "Hotel Management System"
 date: 2023-12-06
 published: true
@@ -13,4 +12,5 @@ summary: "My groups created a basic hotel management system where people can per
 generate guest summary reports."
 ---
 
+<img src="hms.png">
 
