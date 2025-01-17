@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: hms.png
+image: 
 title: "Hotel Management System"
 date: 2023-12-06
 published: true
