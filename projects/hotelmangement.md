@@ -8,16 +8,21 @@ published: true
 labels:
   - Coding
   - C/C++
-summary: "A basic hotel management system where users can perform various operations related to room management, customer check-in and check-out, and
-generate guest summary reports."
+summary: "A basic hotel management system where users can perform various operations."
 ---
 
 <img src="img/hotel.PNG">
 
 ## Hotel Management System Project
 
-In ICS 212 of Fall 2023, as our final project/exam, students were tasked to create a hotel management system in teams of five. As a team, we divided the project into parts for each member to work on. 
+As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group, we divided the project into parts for each member to work on. 
 
-The hotel management system has six features:
+The hotel management system has seven features:
 
-
+1. Manage Rooms
+2. Check-In Room
+3. Available Rooms
+4. Search Customer
+5. Check-Out Room
+6. Guest Summary Report
+7. Exit
