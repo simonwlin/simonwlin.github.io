@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/hotel.PNG
 title: "Hotel Management System"
-date: 2023-12-06
+date: 2023
 published: true
 labels:
   - Coding
