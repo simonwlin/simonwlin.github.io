@@ -19,10 +19,12 @@ As our final project/exam for ICS 212, students were tasked to create a hotel ma
 
 The hotel management system has seven features:
 
-1. Manage Rooms
-2. Check-In Room
-3. Available Rooms
-4. Search Customer
-5. Check-Out Room
-6. Guest Summary Report
-7. Exit
+1. Manage Rooms: add new rooms, search rooms, and delete rooms.
+2. Check-In Room: check-in guests.
+3. Available Rooms: displays a list of available rooms
+4. Search Customer: searches the guest's information
+5. Check-Out Room: check-out guests
+6. Guest Summary Report: generates a summary of guests that are checked in. 
+7. Exit: exits the system
+
+As a result, this project has helped me further improve my coding skills in C++. This project has taught me 
