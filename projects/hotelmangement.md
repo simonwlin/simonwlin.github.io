@@ -11,11 +11,9 @@ labels:
 summary: "A basic hotel management system where users can perform various operations."
 ---
 
-<img src="img/hotel.PNG">
-
 ## Hotel Management System Project
 
-As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group, we divided the project into parts for each member to work on. 
+As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group of six people, we divided the project into parts for each member to work on. 
 
 The hotel management system has seven features:
 
@@ -27,4 +25,4 @@ The hotel management system has seven features:
 6. Guest Summary Report: generates a summary of guests that are checked in. 
 7. Exit: exits the system
 
-As a result, this project has helped me further improve my coding skills in C++. This project has taught me 
+As a result of this project, I have significantly improved my coding skills in C++. This project has taught me that there are multiple ways of approaching a problem, and communication is important when working in a group. I hope to apply these skills when it comes to software engineering because it would be helpful. In the future, I aim to participate in more group projects to further enhance my coding skills. 
