@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: librarymanagment.png
+image: img/librarymanagment.png
 title: "Library Management System"
 date: 2023
 published: true
