@@ -26,3 +26,5 @@ The hotel management system has seven features:
 7. Exit: exits the system
 
 As a result of this project, I have significantly improved my coding skills in C++. This project has taught me that there are multiple ways of approaching a problem, and communication is important when working in a group. I hope to apply these skills when it comes to software engineering because it would be helpful. In the future, I aim to participate in more group projects to further enhance my coding skills. 
+
+(1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
