@@ -14,7 +14,7 @@ Third, create a technical essay (approximately 3-4 paragraphs) that discusses yo
 
 ## Interests in Software Engineering
 
-I am interested in learning about HTML and JavaScript because I do not know what they are used for yet. Also, I am interested in  
+Coming into a software engineering class, I do not know what anything is or what anything does. However, I do have some experience with programming languages like Java, C/C++, and Python which I hope will be helpful for this class. I am particularly interested in learning more about the programming language used in software engineering which I believe are HTML and Javascript. Furthermore, I am open to learning about anything so that I can expand my skills and gain more knowledge about software engineering. 
 
 ## Skills and Experiences hope to develop
 
