@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "typescript"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-017
+date: 2025-01-21
 published: true
 labels:
   - typescript
