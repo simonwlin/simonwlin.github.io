@@ -11,7 +11,7 @@ labels:
 summary: "A basic hotel management system where users can perform various operations."
 ---
 
-# <img width="250px"  src="/img/hotel.jpg" >
+# <img width="250px"  src="/img/hotel.PNG" >
 
 ## Hotel Management System Project
 
