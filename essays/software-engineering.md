@@ -9,7 +9,7 @@ labels:
   - software engineering 
 ---
 
-# <img width="500px"  src="__.jpg" >
+# <img width="100px"  src="__.jpg" >
 
 ## Interests in Software Engineering
 
@@ -21,5 +21,5 @@ In my software engineering journey, I aim to develop skills and gain experience 
 
 ## Final Thoughts
 
-Although I currently do not know anything about software engineering, I believe that learning about software engineering will be incredibly helpful and valuable. Having a good understanding of software engineering will definitely help with enhancing skills. I am excited to learn more about software engineering and apply what I have learned in this course to software engineering projects.
+Although I currently do not know anything about software engineering, I believe that learning about software engineering will be incredibly helpful and valuable. Having a good understanding of software engineering will definitely help with enhancing skills. While software engineering may be a difficult and stressful course, I am excited to learn more about software engineering and apply what I have learned in this course to software engineering projects.
 
