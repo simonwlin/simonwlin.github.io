@@ -16,7 +16,7 @@ Coming into a software engineering class, I do not know what anything is or what
 
 ## Skills and Experiences hope to develop
 
-In my software engineering journey, I aim to develop skills and gain experience that will prepare me for anything I do in software engineering. I plan to strengthen my understanding of HTML, and Javascript through practicing the WODS we do, the group activities we do in class, and practicing on my own time. Additionally, I want to get more used to using GitHub because it seems like a useful skill to know how to do things on GitHub and what their purpose is. By the end of this class, I want to be able to use these skills and valuable experiences to contribute to software engineering projects. 
+In my software engineering journey, I aim to develop skills and gain experience that will prepare me for anything I do in software engineering. I plan to strengthen my understanding of HTML, and Javascript through practicing the WODS we do, the group activities we do in class, and practicing on my own time. Although I have used GitHub for my previous classes, I want to get more used to using GitHub because it seems like a useful skill to know how to do things on GitHub and what their purpose is. By the end of this class, I want to be able to use these skills and valuable experiences to contribute to software engineering projects. 
 
 ## Final Thoughts
 
