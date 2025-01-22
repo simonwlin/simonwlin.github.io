@@ -9,7 +9,7 @@ labels:
   - software engineering 
 ---
 
-# <img width="100px"  src="software.jpg" >
+# <img width="100px"  src="/img/software.jpg" >
 
 ## Interests in Software Engineering
 
