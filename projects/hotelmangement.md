@@ -11,6 +11,7 @@ labels:
 summary: "A basic hotel management system where users can perform various operations."
 ---
 
+<img width="175px" class= src="../img/hotel.png" >
 ## Hotel Management System Project
 
 As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group of six people, we divided the project into parts for each member to work on. 
