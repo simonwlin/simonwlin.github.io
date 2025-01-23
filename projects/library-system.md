@@ -10,6 +10,7 @@ labels:
   - Coding
 summary: "A basic library management system where users can perform various operations."
 ---
+# <img width="250px"  src="/img/librarymanagment.png" >
 
 ## Library Management System Project
 
