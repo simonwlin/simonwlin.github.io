@@ -11,7 +11,7 @@ labels:
 summary: "A basic sudoku solver."
 ---
 
-# <img width="150px"  src="/img/sudoku.JPG" >
+# <img width="200px"  src="/img/sudoku.JPG" >
 
 ## Sudoku Puzzle
 
