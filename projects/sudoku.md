@@ -7,11 +7,11 @@ date: 2023
 published: true
 labels:
   - Coding
-  - C/C++
-summary: "A basic hotel management system where users can perform various operations."
+  - Java
+summary: "A basic sudoku solver."
 ---
 
-# <img width="250px"  src="/img/sudoku.JPG" >
+# <img width="150px"  src="/img/sudoku.JPG" >
 
 ## Sudoku Puzzle
 
