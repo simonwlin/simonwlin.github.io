@@ -9,7 +9,7 @@ labels:
   - typescript 
 ---
 
-# <img width="250px"  src="/img/software.jpg" >
+# <img width="250px"  src="/img/WOD2.PNG" >
 
 ## Typescript
 Learning a new programming language or a language in general takes time. Although having experience in other programming 
