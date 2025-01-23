@@ -21,7 +21,7 @@ After learning about Java, I wanted to test my understanding of Java programming
 
 Through this project, I gained a deeper understanding of recursion and the backtracking algorithm. I also enhanced my skills in Java programming, particularly in handling multidimensional arrays and optimizing algorithms for better performance. Additionally, the project improved my problem-solving abilities and taught me how to approach complex problems.
 
-
+```cpp
 public class SudokuPuzzle  {  
 public boolean isSafe(int[][] b, int r, int c, int n)  {  
 // the loop takes care of the clash in the row of the grid  
@@ -159,3 +159,4 @@ for(int i = 0; i < size; i++)  {
         }
     }
 }
+```
