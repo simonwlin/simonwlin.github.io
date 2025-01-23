@@ -29,3 +29,54 @@ Since this project was divided into different parts for each member to work on, 
 
 As a result of this project, I have significantly improved my coding skills in C++. This project has taught me that there are multiple ways of approaching a problem, and communication is important when working in a group. I hope to apply these skills when it comes to software engineering because it would be helpful. In the future, I aim to participate in more group projects to further enhance my coding skills. 
 
+Here is the 'searchCustomer()', 'checkOutRoom()', and 'guestSummaryReport()' function:
+```cpp
+//Iterate through the guests and find if the guest's name matches the inputed name or an error if there is no match found 
+void searchCustomer(const vector<Customer>& guests) {
+    string userName;
+    cout << "Enter Customer Name: ";
+    cin.ignore();  // Ignore newline character left in the buffer
+    getline(cin, userName);
+
+      for(int i = 0; i < guests.size(); i++){
+        if(userName == guests[i].getName()){
+          guests[i].displayCustomerDetails();
+          return;
+        }
+      }
+      cout << "Customer not found" << endl;
+}
+//Checks a guest out of a room by iterating through the guest and room vectors to find if the correct guest and room, then removes the guest from the room and marks the room as available
+void checkOutRoom(vector<Customer>& guests, vector<Room>& rooms) {
+    int roomNumber, numDays, roomIndex = -1, guestIndex = -1;
+    cout << "Enter Room Number: ";
+    cin >> roomNumber;
+  //checks to see if room number matches the guest's room number and the rooms room number
+    for(int i = 0; i < guests.size(); i++){
+      if(roomNumber == guests[i].getRoomNumber()){
+        guestIndex = i;
+        break;
+      }
+    }
+    for(int j = 0; j < rooms.size(); j++){
+      if(rooms[j].getNumber() == roomNumber){
+        roomIndex = j;
+      }
+    }
+        cout << "Enter length of stay: ";
+        cin >> numDays;
+      //displays the customer's information and amount due
+        guests[guestIndex].displayCheckOutDetails(rooms[roomIndex].getRent() * numDays);
+
+        // Mark the room as available
+        rooms[roomIndex].unbook();
+}
+//Lists all the guests with their information as displayed by the displayCustomerDetails() function
+void guestSummaryReport(const vector<Customer>& guests) {
+    cout << "##### Guest Summary Report #####" << endl;
+    for(int i = 0; i < guests.size(); i++) {
+        guests[i].displayCustomerDetails();
+        cout << "--------------------------" << endl;
+    }
+}
+```
