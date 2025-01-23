@@ -15,9 +15,7 @@ summary: "A basic hotel management system where users can perform various operat
 
 ## Hotel Management System Project
 
-As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group of six people, we divided the project into parts for each member to work on. 
-
-The hotel management system has seven features:
+As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group of six people, we divided the project into parts for each member to work on. The hotel management system included seven features:
 
 1. Manage Rooms: add new rooms, search rooms, and delete rooms.
 2. Check-In Room: check-in guests.
@@ -27,8 +25,7 @@ The hotel management system has seven features:
 6. Guest Summary Report: generates a summary of guests that are checked in. 
 7. Exit: exits the system
 
-Since this project was divided into different parts for each member to work on, I was responsible for writng the ___ function.
+Since this project was divided into different parts for each member to work on, I was responsible for writing the searchCustomer(), checkOutRoom(), and guestSummaryReport() functions. While working on these fucntions, I did come across some problems. For example, we needed to create additional helper functions and call them correctly. Additionally, we had to use consistent variable names and data structures across all modules otherwise we would come across an error. In the end, we managed to get the code to work by communicating with each other and helping each other out. 
 
 As a result of this project, I have significantly improved my coding skills in C++. This project has taught me that there are multiple ways of approaching a problem, and communication is important when working in a group. I hope to apply these skills when it comes to software engineering because it would be helpful. In the future, I aim to participate in more group projects to further enhance my coding skills. 
 
-(1) what the project was about; (2) what your role was and how much of the work you were responsible for; and (3) what did you learn from the experience?
