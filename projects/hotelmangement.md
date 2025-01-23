@@ -15,7 +15,7 @@ summary: "A basic hotel management system where users can perform various operat
 
 ## Hotel Management System Project
 
-As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group of six people, we divided the project into parts for each member to work on. The hotel management system included seven features:
+As our final project/exam for ICS 212, students were tasked to create a hotel management system as a group. As a group of six people, we divided the project into parts for each member to work on. The hotel management system includes seven features:
 
 1. Manage Rooms: add new rooms, search rooms, and delete rooms.
 2. Check-In Room: check-in guests.
@@ -29,7 +29,7 @@ Since this project was divided into different parts for each member to work on, 
 
 As a result of this project, I have significantly improved my coding skills in C++. This project has taught me that there are multiple ways of approaching a problem, and communication is important when working in a group. I hope to apply these skills when it comes to software engineering because it would be helpful. In the future, I aim to participate in more group projects to further enhance my coding skills. 
 
-Here is the 'searchCustomer()', 'checkOutRoom()', and 'guestSummaryReport()' function:
+Here is the `searchCustomer()`, `checkOutRoom()`, and `guestSummaryReport()` function:
 ```cpp
 //Iterate through the guests and find if the guest's name matches the inputed name or an error if there is no match found 
 void searchCustomer(const vector<Customer>& guests) {
