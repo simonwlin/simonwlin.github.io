@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "simonwlin", "url": "http://github.com/simonwlin" },
-      { "network": "linkedin", "username": "Simon Lin", "url": "www.linkedin.com/in/simon-lin" },
+      { "network": "linkedin", "username": "Simon Lin", "url": "www.linkedin.com/in/simon-lin/" },
       
     ]
   },
