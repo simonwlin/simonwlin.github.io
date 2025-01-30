@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript"]
+      "keywords": [ "C", "C++", "Java"]
     }
   ],
   "education": [
@@ -30,29 +30,22 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2022",
+      "startDate": "2022-9-22",
       "endDate": "Present"
     }
-  ],
-  "work": [
-   
   ],
   "volunteer": [
     {
       "organization": "Hawaii Undergraduate Initiative",
       "website": "http://www.manoa.hawaii.edu/omsshui/";
-      "position": " ",
       "startDate": "2022",
-      "endDate": " ",
-      "summary": " ",
+      "endDate": "2023",
+      "summary": "Undergraduate Initiative",
       "highlights": [
-        " ",
-        " "
+        "Volunteered for fundraisers",
+        "Beach Cleanup"
       ]
     }
-  ],
-  "awards": [
-    
   ],
   "references": [
     {
