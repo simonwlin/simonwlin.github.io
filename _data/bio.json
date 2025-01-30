@@ -11,7 +11,6 @@
     "profiles": [
       { "network": "github", "username": "simonwlin", "url": "http://github.com/simonwlin" },
       { "network": "linkedin", "username": "Simon Lin", "url": "www.linkedin.com/in/simon-lin" }
-      
     ]
   },
   "interests": [
@@ -32,9 +31,7 @@
       "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
       "startDate": "2022",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "endDate": "Present"
     }
   ],
   "work": [
@@ -52,7 +49,7 @@
         " ",
         " "
       ]
-    },
+    }
   ],
   "awards": [
     
