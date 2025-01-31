@@ -30,13 +30,15 @@ My question is, in the implementations of VLAs that store the array on the stack
 
 Note: The same question also applies for alloca.
 ```
-This [question](https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c) 
+This [question](https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c) meets the requirements for a smart question. The questions are clearly stated and the user demonstrates understanding of their topic. Since this question met the requirements for smart questions, the user has received multiple answers. 
 
 ## Not so smart questions
 ```
 my problem is that it knows to turn because I added a debug.log statement but it still will not turn even though I have the quaternion.RotateTowards function.
 
-At first I tried to replace the Quaternion.RotateTowards with transform.Rotation which worked but it was an instant rotation. I have a feeling you could use lerping but im not sure how to use lerp. Here is my code:
+At first I tried to replace the Quaternion.RotateTowards with transform.Rotation which worked but it was an instant rotation.
+ I have a feeling you could use lerping but im not sure how to use lerp.
+Here is my code:
 ```
 This [question](https://stackoverflow.com/questions/79163728/why-isnt-my-code-which-is-supposed-to-target-and-turn-towards-player-not-workin) is an example of a not-so-smart question because it lacks clarity. The person asking the question does not clearly state what the problem is, which makes it difficult to answer the question because the person answering the question would have to assume what the question is. As a result, there will be less activity on this post because no one knows how to answer the question. However, to improve this question we can focus on stating the problem clearly, specifying what help is needed, and including the actual output. 
 
