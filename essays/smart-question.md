@@ -14,7 +14,7 @@ labels:
 # <img width="250px"  src="/img/smartquestion.png" >
 
 ## What are smart questions?
-In any field of work, having the ability to ask smart questions is essential. Asking smart questions leads to better and faster responses from others. Asking smart questions may be difficult but try to make questions specific and include context to ensure that the person answering the question understands what you need help with. Even though there is no such thing as asking “bad questions”, asking not-so-smart questions could potentially lead to confusion because the question is unclear or not enough information is provided to the person answering. However stupid questions are still questions, so even though there may be some confusion, people can communicate with one another to understand what is being asked. 
+In any field of work, having the ability to ask smart questions is essential. Having the ability to ask smart questions leads to better and faster responses from others. Asking smart questions may be difficult but try to make questions specific and include context to ensure that the person answering the question understands what you need help with. Even though there is no such thing as asking “bad questions”, asking not-so-smart questions could potentially lead to confusion because the question is unclear or not enough information is provided to the person answering. However stupid questions are still questions, so even though there may be some confusion, people can communicate with one another to understand what is being asked. 
 
 ## Examples of Smart Questions
 
