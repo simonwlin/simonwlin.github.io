@@ -17,9 +17,9 @@ summary: "A basic sudoku solver."
 
 The project involved creating a Sudoku solver in Java. The goal was to develop an algorithm that could efficiently solve any valid Sudoku puzzle by filling in the blank cells while sticking to the rules of the game. The program is designed to take a somewhat filled Sudoku board as input and output the solved board.
 
-After learning about Java, I wanted to test my understanding of Java programming concepts by creating a Sudoku solver in Java. I was responsible for the entire implementation, from designing the algorithm to coding and optimizing the solution. I used recursion and the backtracking algorithm to systematically explore possible solutions and ensure an efficient approach.
+After learning about Java, I wanted to test my understanding of Java programming concepts by creating a Sudoku solver in Java. I was responsible for the entire implementation, from designing the algorithm to coding and optimizing the solution. I used recursion and the backtracking algorithm to get the Sudoku solver to work.
 
-At the end of this project, I gained a deeper understanding of recursion and the backtracking algorithm. I also enhanced my skills in Java programming, particularly in handling multidimensional arrays and optimizing algorithms for better performance. Additionally, the project improved my problem-solving abilities and taught me how to approach complex problems.
+At the end of this project, I gained a deeper understanding of recursion and the backtracking algorithm. I also enhanced my skills in Java programming, specifically in handling multidimensional arrays. Additionally, the project improved my problem-solving abilities and taught me how to approach complex problems.
 
 ```cpp
 public class SudokuPuzzle  {  
