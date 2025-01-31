@@ -30,9 +30,9 @@ My question is, in the implementations of VLAs that store the array on the stack
 
 Note: The same question also applies for alloca.
 ```
-This [question](https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c) meets the requirements for a smart question. The questions are clearly stated and the user demonstrates understanding of their topic. Since this question met the requirements for smart questions, the user has received multiple answers. 
+This [question](https://stackoverflow.com/questions/79400684/where-is-the-size-of-a-vla-stored-in-c) meets the requirements for a smart question. The questions are clearly stated and the user demonstrates understanding of their topic. Since this question met the requirements for smart questions, the user has received multiple answers. This shows how important asking smart questions is to receive helpful feedback from others. 
 
-## Not so smart questions
+## Not So Smart Questions
 ```
 my problem is that it knows to turn because I added a debug.log statement but it still will not turn even though I have the quaternion.RotateTowards function.
 
