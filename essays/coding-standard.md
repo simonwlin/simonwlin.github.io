@@ -11,7 +11,7 @@ labels:
   - Coding Standards
 ---
 
-# <img width="250px"  src="/img/" >
+# <img width="250px"  src="/img/codingstandard.jpg" >
 
 ## What are Coding Standards
 Coding standards are rules to follow when you code because these rules help make the code look more organized, neat, and readable to others. For example, many people who code usually have proper indentation and spacing within their code. This is to help with making the code look more organized, and clean and make it easier when it comes to debugging. Another example is to use the curly braces when writing if/else statements or for loops. Remembering to use the curly braces, helps with avoiding errors. Following these rules will not only make the code look cleaner and neat, but it can also make you a better coder. 
