@@ -33,7 +33,7 @@ The website on the left was made with HTML and CSS and the website on the right 
 you can tell the website made with Bootstrap 5, looks more professional and cleaner than the website using just HTML and CSS.
 
 ## My Experience Using Bootstrap 5
-	Before using a UI framework called Bootstrap 5, I knew nothing about UI frameworks or had any experience with them but I did have 
+Before using a UI framework called Bootstrap 5, I knew nothing about UI frameworks or had any experience with them but I did have 
  prior experience building a website using HTML and CSS. When I was first introduced to Bootstrap 5, I had difficulty understanding 
  how the Bootstrap framework works and even now I have difficulty understanding. The Bootstrap framework is there to help developers 
  build websites quicker than just using HTML and CSS because you can ignore padding and margin but even then I have difficulty 
