@@ -28,10 +28,7 @@ to create a navigation bar. Not only it is significantly quicker and easier it t
 using UI Frameworks will look clean, professional, and consistent.
 
 ## Example
-<div class="text-center p-4">
-  <img width="450px" class="img-thumbnail" src="../img/frameworks/css-webiste.png">
-  <img width="450px" class="img-thumbnail" src="../img/frameworks/bootstrap.png">
-</div>
+# <img width="250px"  src="/img/css-website.jpg" ><img width="400px"  src="/img/bootstrap.jpg" >
 
 The website on the left was made with HTML and CSS and the website on the right was made with the help of Bootstrap 5. Off the start, 
 you can tell the website made with Bootstrap 5, looks more professional and cleaner than the website using just HTML and CSS.
