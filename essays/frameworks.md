@@ -13,7 +13,7 @@ labels:
   - UI Frameworks
 ---
 
-# <img width="250px"  src="/img/bootstrap-icon.png" >
+# <img width="250px"  src="/img/bootstrap-icon.svg" >
 
 ## What is UI Framework?
 Websites can be built just by using HTML and CSS but they can be very time-consuming and annoying to work with especially when dealing 
