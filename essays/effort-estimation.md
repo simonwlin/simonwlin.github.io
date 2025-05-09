@@ -9,7 +9,7 @@ labels:
   - Estimation
 
 ---
-# <img width="250px"  src="/img/guess.jpeg" >
+# <img width="250px"  src="/img/guess.jpg" >
 # Method of Estimation
 When working on my project tasks, I made my effort estimates based on how hard I think the task may be. For example, if my task were to create an HTML page, I estimate it to be an hour or so because we have done something similar before in class. However, if the task was to put data into the database, it may take longer to do since I did not have much practice with inputting data into the database. For tracking my estimated time, I set a timer on my phone for 20 minutes and would add more time if I was not done completing my task. I believe that my tracking was inaccurate because sometimes when my timer went off, I would doomscroll, causing my time to be longer than it should be. Finally, I believe tracking these took almost no time since I had to just check my timer once in a while. 
 
