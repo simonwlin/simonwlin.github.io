@@ -68,7 +68,7 @@ Documenting code
 I didn’t focus on documenting my code because I usually understood what I wrote., Moving forward, I think I should start documenting my code because there are benefits in doing so, such as saving time debugging or relearning your code, and other people can understand it.
 
 Quality assurance
-Whenever I came across an error, I would usually copy and paste the error into ChatGPT and ask what was wrong and what I could do to fix the issue. In the example given, “What’s wrong with this code <code here> " is what I would usually ask ChatGPT. Most of the time, AI will explain what is wrong and what I could do to fix it, but there are some cases where the error doesn’t get fixed, which becomes a hassle. For ESLint, I came across no issues because I could simply fix them since the problem was usually a trailing space or a new line error.
+Whenever I came across an error, I would usually copy and paste the error into ChatGPT and ask what was wrong and what I could do to fix the issue. In the example given, " What’s wrong with this code <code here> " is what I would usually ask ChatGPT. Most of the time, AI will explain what is wrong and what I could do to fix it, but there are some cases where the error doesn’t get fixed, which becomes a hassle. For ESLint, I came across no issues because I could simply fix them since the problem was usually a trailing space or a new line error.
 
 Other uses in ICS 314 not listed
 I have not used AI in other ways in ICS314 that are not listed. The main reasons are that I probably won’t learn as much if I keep using AI, and most of the time, AI isn’t that accurate. 
