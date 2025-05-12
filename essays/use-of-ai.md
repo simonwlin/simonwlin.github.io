@@ -73,5 +73,7 @@ Whenever I came across an error, I would usually copy and paste the error into C
 Other uses in ICS 314 not listed
 I have not used AI in other ways in ICS314 that are not listed. The main reasons are that I probably won’t learn as much if I keep using AI, and most of the time, AI isn’t that accurate. 
 
-Impact on Learning and Understanding
+# Impact on Learning and Understanding
 The incorporation of AI into my learning experience has significantly influenced my comprehension, skill development, and problem-solving abilities both positively and negatively. Incorporating AI has made my learning experience much easier due to how quickly it provides solutions, examples, and explanations. However, frequently using AI may result in me learning less when compared to studying or doing assignments without it. Furthermore, AI has helped with my comprehension through the explanations and examples provided to me. Although AI has helped me so much, I feel that my skills aren’t developing as well as doing an assignment without AI, which is why I have to keep practicing to do well. The same thing goes for problem solving, my problem-solving skills aren’t getting better if I just constantly ask for the solution. Instead of asking for the solution, I tend to ask AI smart questions to guide my learning and maintain a problem-solving mindset. 
+
+#
