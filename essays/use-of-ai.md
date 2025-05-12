@@ -8,7 +8,6 @@ published: true
 labels:
   - AI
   - Reflection
-  - 
 ---
 
 # Introduction
@@ -45,7 +44,20 @@ Coding example
 Coding examples helped me understand how to write code better because it provided a reference. For instance, in the example given, “give an example of using underscore .pluck”. The coding example will help provide accurate code that can be used, which will help reduce the time spent searching documentation. 
 
 Explaining code
-After doing the experience WOD, if I didn’t understand something in the code, I would copy and paste the code into ChatGPT and ask it to explain the code line by line. For example, in the 
+After doing the experience WOD, if I didn’t understand something in the code, I would copy and paste the code into ChatGPT and ask it to explain the code line by line. For example, if I don't understand this code 
+'import "bootstrap/dist/css/bootstrap.min.css";
+import { Container } from "react-bootstrap";
+
+export default function Home() {
+  return (
+    <main>
+      <Container>
+        <h1 className="text-center">Island Snow!</h1>
+      </Container>
+    </main>
+  );
+}' 
+I would copy and paste it into ChatGPT and ask it to explain the code line by line. Doing this will allow me to understand the code, which will help me understand similar codes in the future. 
 
 Writing code
 If I didn’t know where to begin, I would ask ChatGPT to lay out the code for me. For example, if I wanted to create a landing page, I would ask ChatGPT to lay out a landing page for me. This was incredibly helpful and efficient because it saved me from typing 20-30 minutes of code. However, I would still have to adjust the code to get it where I want it to be. 
@@ -54,8 +66,10 @@ Documenting code
 I didn’t focus on documenting my code because I usually understood what I wrote., Moving forward, I think I should start documenting my code because there are benefits in doing so, such as saving time debugging or relearning your code, and other people can understand it.
 
 Quality assurance
-Whenever I came across an error, I would usually copy and paste the error into ChatGPT and ask what was wrong and what I could do to fix the issue. In the example given, “What’s wrong with this code <code here>” is what I would usually ask ChatGPT. Most of the time, AI will explain what is wrong and what I could do to fix it, but there are some cases where the error doesn’t get fixed, which becomes a hassle. For ESLint, I came across no issues because I could simply fix them since the problem was usually a trailing space or a new line error.
+Whenever I came across an error, I would usually copy and paste the error into ChatGPT and ask what was wrong and what I could do to fix the issue. In the example given, “What’s wrong with this code <code here> " is what I would usually ask ChatGPT. Most of the time, AI will explain what is wrong and what I could do to fix it, but there are some cases where the error doesn’t get fixed, which becomes a hassle. For ESLint, I came across no issues because I could simply fix them since the problem was usually a trailing space or a new line error.
 
 Other uses in ICS 314 not listed
 I have not used AI in other ways in ICS314 that are not listed. The main reasons are that I probably won’t learn as much if I keep using AI, and most of the time, AI isn’t that accurate. 
 
+Impact on Learning and Understanding
+The incorporation of AI into my learning experience has significantly influenced my comprehension, skill development, and problem-solving abilities both positively and negatively. Incorporating AI has made my learning experience much easier due to how quickly it provides solutions, examples, and explanations. However, frequently using AI may result in me learning less when compared to studying or doing assignments without it. Furthermore, AI has helped with my comprehension through the explanations and examples provided to me. Although AI has helped me so much, I feel that my skills aren’t developing as well as doing an assignment without AI, which is why I have to keep practicing to do well. The same thing goes for problem solving, my problem-solving skills aren’t getting better if I just constantly ask for the solution. Instead of asking for the solution, I tend to ask AI smart questions to guide my learning and maintain a problem-solving mindset. 
