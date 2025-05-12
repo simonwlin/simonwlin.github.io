@@ -45,7 +45,8 @@ Coding examples helped me understand how to write code better because it provide
 
 Explaining code
 After doing the experience WOD, if I didn’t understand something in the code, I would copy and paste the code into ChatGPT and ask it to explain the code line by line. For example, if I don't understand this code 
-'import "bootstrap/dist/css/bootstrap.min.css";
+```
+import "bootstrap/dist/css/bootstrap.min.css";
 import { Container } from "react-bootstrap";
 
 export default function Home() {
@@ -56,8 +57,9 @@ export default function Home() {
       </Container>
     </main>
   );
-}' 
-I would copy and paste it into ChatGPT and ask it to explain the code line by line. Doing this will allow me to understand the code, which will help me understand similar codes in the future. 
+}
+```
+I would copy and paste it into ChatGPT and ask it to explain the code line by line. Doing this will allow me to understand the code, which will help me understand similar code in the future. 
 
 Writing code
 If I didn’t know where to begin, I would ask ChatGPT to lay out the code for me. For example, if I wanted to create a landing page, I would ask ChatGPT to lay out a landing page for me. This was incredibly helpful and efficient because it saved me from typing 20-30 minutes of code. However, I would still have to adjust the code to get it where I want it to be. 
