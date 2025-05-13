@@ -10,6 +10,8 @@ labels:
   - Reflection
 ---
 
+# <img width="250px"  src="/img/ai.htm" >
+
 # Introduction
 Artificial intelligence, also known as AI, has been used in education to help students with solving problems and giving feedback. 
 In the field of Software engineering, AI has assisted software developers with generating code, debugging, documenting, and even 
