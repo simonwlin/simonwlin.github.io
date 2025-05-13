@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-# <img width="250px"  src="/img/ai.htm" >
+# <img width="250px"  src="/img/ai.avif" >
 
 # Introduction
 Artificial intelligence, also known as AI, has been used in education to help students with solving problems and giving feedback. 
