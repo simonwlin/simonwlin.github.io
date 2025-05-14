@@ -11,6 +11,7 @@ labels:
   - Coding Standard
 ---
 
+# The Experience in ICS 314
 Now that I am almost done with ICS 314, I have learned that this class is not only about web development, but also about acquiring experience with fundamental software engineering concepts. While we used web technologies such as Node.js and React, the concepts we learned, such as design patterns and coding standards, can be used in the future. 
 
 # Design Pattern 
