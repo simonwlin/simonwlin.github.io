@@ -12,7 +12,6 @@ summary: "A group project created in ICS 314, which focuses on scheduling courts
 
 # <img width="1000px"  src="/img/landingpage.JPG" >
 
-# GamePlan
 As a final project in ICS 314, students were tasked to create a web application as a group. As a group of 5 people, we created a web application called GamePlan, which allows people to reserve courts at the Warrior Recreation Center and find and join existing groups due to how packed the courts get after 5 pm. GamePlan includes nine features: 
 1. Landing Page: Explore the app’s features and get started
 2. Sign In Page: Returning users can log in to access reservations and groups
