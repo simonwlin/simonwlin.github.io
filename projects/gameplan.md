@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+image: img/gameplan.PNG
 title: "Game Plan"
 date: 2023
 published: true
@@ -9,8 +10,6 @@ labels:
 summary: "A group project created in ICS 314, which focuses on scheduling courts at the Warrior Recreation Center."
 ---
 
-# <img width="250px"  src="/img/gameplan.PNG" >
-# The Landing Page of GamePlan
 # <img width="750px"  src="/img/landingpage.JPG" >
 
 # GamePlan
